@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://suvir1408.github.io/test5/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://suvir1408.github.io/test5/wp-content/uploads/2021/05/contho.jpg" sizes="32x32">
+<link rel="icon" href="https://suvir1408.github.io/test5/wp-content/uploads/2021/05/contho.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://suvir1408.github.io/test5/wp-content/uploads/2021/05/contho.jpg">
+<meta name="msapplication-TileImage" content="https://suvir1408.github.io/test5/wp-content/uploads/2021/05/contho.jpg">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -85,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://suvir1408.github.io/test5/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"d55b562e3b"};
+var userProfileL10n = {"user_id":"0","nonce":"9b73f499de"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
